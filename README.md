@@ -16,6 +16,8 @@ MTDSH is a dedicated server manager that is based off the Torch api (A Space Eng
 
 ### Usage
 
+* Currently limited to basic gui interactions
+
 * Download the latest release from the releases section
 * Run the program, once loaded, click Update in the Configuration tab
 * The application will download SteamCMD and MotorTown DS
